@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600mm" height="400mm" viewBox="0 0 600 400">
+<title>sheet-3mm-door-1.svg</title>
+<!-- red = cut, blue = score/engrave, green = info only (do not cut). Kerf compensation 0.15 mm is already applied. -->
+<g id="cut" fill="none" stroke="#ff0000" stroke-width="0.1"><path d="M5,5 L5,211.15 L247.15,211.15 L247.15,5 Z"/><circle cx="15.075" cy="13.075" r="1.525"/><circle cx="31.075" cy="13.075" r="1.525"/><circle cx="221.075" cy="13.075" r="1.525"/><circle cx="237.075" cy="13.075" r="1.525"/><circle cx="126.075" cy="195.075" r="1.925"/></g>
+<g id="score" fill="none" stroke="#0000ff" stroke-width="0.1"><line x1="19.075" y1="19.075" x2="19.075" y2="197.075"/><line x1="19.075" y1="197.075" x2="233.075" y2="197.075"/><line x1="233.075" y1="197.075" x2="233.075" y2="19.075"/><line x1="233.075" y1="19.075" x2="19.075" y2="19.075"/></g>
+<g id="info" fill="#00a000" font-family="Arial, sans-serif" font-size="5"><text x="45.075" y="108.075" text-anchor="middle">DOOR 3 mm</text><text x="45.075" y="113.075" text-anchor="middle" font-size="3">outside face up, hinge on the left</text></g>
+</svg>
